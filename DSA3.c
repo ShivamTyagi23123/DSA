@@ -21,7 +21,7 @@
 
 //Explanation: Compared with 10, 20, 30 (found at index 2 with 3 comparisons)
 
-#include 
+#include <stdio.h>
 
 int main() {
     int n, k, comparisons = 0;
